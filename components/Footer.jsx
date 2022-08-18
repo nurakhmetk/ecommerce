@@ -19,6 +19,9 @@ const Footer = () => {
         <strong>4242 4242 4242 4242</strong>, Month - <strong> 04/42</strong>,
         CVV - <strong>424</strong>
       </p>
+      <p className='footer-warning-text'>
+        Designed and created by Kairat Nurakhmet
+      </p>
     </div>
   );
 };
