@@ -20,7 +20,7 @@ const Footer = () => {
         CVV - <strong>424</strong>
       </p>
       <p className='footer-warning-text'>
-        Designed and created by Kairat Nurakhmet
+        Created by Kairat Nurakhmet
       </p>
     </div>
   );
