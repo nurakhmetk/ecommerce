@@ -1,6 +1,6 @@
 # Ecommerce
 
-This is a simple example of a full responsible, SEO optimized commercial online tech store with the Sanity CMS.
+This is a simple example of a full responsible, SEO optimized full-stack commercial online tech store with the Sanity CMS.
 
 With the Sanity CMS or with any CMS you can add, edit, delete all your content as you wish. Fully functional working website with real payment using Stripe platform.
 
