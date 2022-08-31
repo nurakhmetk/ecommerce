@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ecommerce
 
-## Getting Started
+This is a simple example of a full responsible, SEO optimized commercial online tech store with the Sanity CMS.
 
-First, run the development server:
+With the Sanity CMS or with any CMS you can add, edit, delete all your content as you wish. Fully functional working website with real payment using Stripe platform.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Link to the website - https://ecommerce-d9be3sbaf-nurakhmetk.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Ecommerce website
+### Homepage, the page you see first
+![Homepage](screenshots/1.jpg '')
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Product's detailed page
+![Product-Page](screenshots/2.jpg '')
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Carousel with suggested products for the user
+![Carousel](screenshots/3.jpg '')
 
-## Learn More
+### A shopping cart where the user can add, remove or just check out items
+![Cart](screenshots/4.jpg '')
 
-To learn more about Next.js, take a look at the following resources:
+### Ordering, where the user needs to fill in information about the card.
+![Ordering](screenshots/5.jpg '')
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Yay, the customer has completed all the steps and ordered the product
+![Finish](screenshots/6.jpg '')
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### On the Stripe website, we can check all orders from customers with a detailed review
+![Stripe](screenshots/7.jpg '')
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Sanity CMS
+### The main page of the CMS, here you can see all the information
+![Sanity-main](screenshots/8.jpg '')
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Detailed overview for each product, you can edit each text, picture, price, etc. You can add as many columns as you want. Because Sanity or other headless CMS provide the ability to customize all the data in their CMS
+![Sanity-overview](screenshots/9.jpg '')
+
+### You can see who edited last and what was edited
+![Sanity-edit](screenshots/10.jpg '')
+
+### Here we changed ButtonText from "Shop Now" to "ORDER NOW"
+![Sanity-ordernow](screenshots/11.jpg '')
+
+### Here's the result of the change
+![Sanity-result](screenshots/12.jpg '')
+
+## The technologies that were used to implement
+
+- React.js
+- Next.js
+- Sanity CMS
+- Stripe payment
+- CSS
