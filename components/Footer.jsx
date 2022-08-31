@@ -10,18 +10,18 @@ const Footer = () => {
         <AiOutlineTwitter />
       </p>
       <p className='footer-warning-text'>
-        This isn't real commercial website. It was made for training purposes,
-        all payment transactions do not charge real money. But for more
-        security, do not enter your real bank card details.
+        This isn't real commercial website. It was made for showing purposes,
+        all payment transactions do not charge real money.
+      </p>
+      <p className='footer-warning-text'>
+        But for more security, do not enter your real bank card details.
       </p>
       <p className='footer-warning-text'>
         Payment testing card details: Card number -{' '}
         <strong>4242 4242 4242 4242</strong>, Month - <strong> 04/42</strong>,
         CVV - <strong>424</strong>
       </p>
-      <p className='footer-warning-text'>
-        Created by Kairat Nurakhmet
-      </p>
+      <p className='footer-warning-text'>Created by Kairat Nurakhmet</p>
     </div>
   );
 };
